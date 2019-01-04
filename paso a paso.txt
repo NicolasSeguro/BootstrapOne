@@ -1,0 +1,47 @@
+Bootstrap 
+1-Instalar Bootstrap 
+2- Copiar el html del starter template en introduction
+3-Cambiar Link css a nuestra carpeta css/Bootstrap.css y Script a la JS/Bootstrap.js
+4-Ir a documentacion/ components / navbar y copiarlo dentro del body
+5-Chequear los cambios y ver como es responsive
+
+Hacer web completa
+
+1-Copiar los archivos en una nueva carpeta 
+2-Abrir en el visual 
+3-agregar los styles
+4-Explicar Vh en Height
+5-Agregar los section y las class 
+6-Meter una imagen 1920x1080
+7-Ingresar un H1 
+8-Vamos a la web de bootstrap, document/content/typo y usamos la class display
+9-para centrar, vamos a utilities,flexbox d-flex 
+10- copiamos la class para poner en horizontal y despues en vertical 
+
+Parte 2 parrafo
+
+1-Agregamos un nuevo section con class container 
+2- Parrafo con Lorem varias veces para scrollear 
+3-Explicar medida REM relativa a los 16px por defecto de HTML 
+4-Ver en spacing la class M y T y la medida 5 Aplicarlo al titulo del parrafo
+5-Aplicar padding top 5 pt-5 text center y text uppercase 
+6-Combinar italica + negrita 
+7-Aplicar background y letra blanca,padding y margin bottom y text justify 
+8-Sizing para modificar el ancho en vertical del texto anterior w-25
+9- Aplicamos float left + margin right para que pueda quedar el texto alrededor del texto azul
+
+Parte 3 Menu de navegación
+
+1-Aplicamos la etiqueta Nav con la class navbar
+2-Elegir la class con el color de fondo 
+3- en navbar containers copiar el a href para aplicar el logo
+4- href colocar nuestro index.html para que vuelva al inicio siempre que click en el logo
+5-en la imagen podriamos colocar nuestro logo(en lo posible en svg para que se adapte a todos los dispositivos)
+6-Copiar los div para aplicar el menu con anclas y no con UL
+7-Agregar el toogler 
+8-Crear un nuevo div para contener dentro del toogler el menu con las class colapse y el identificador 
+9- para ponerlo a la derecha hay otra class navbar togle right 
+
+
+
+
